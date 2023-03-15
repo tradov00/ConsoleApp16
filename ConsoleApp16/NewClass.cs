@@ -6,7 +6,7 @@ namespace PIS
 {
     class NewClass
     {
-        void metoda()
+        void method()
         {
 
         }
