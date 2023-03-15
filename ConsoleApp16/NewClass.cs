@@ -8,7 +8,6 @@ namespace PIS
     {
         void method()
         {
-            Console.WriteLine("Promjena2!");
         }
     }
 }
