@@ -8,7 +8,7 @@ namespace PIS
     {
         void metoda()
         {
-
+            Console.WriteLine("Promjena!");
         }
     }
 }
